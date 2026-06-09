@@ -44,7 +44,7 @@ Heart disease is one of the leading causes of death worldwide. Early and accurat
 
 ## 📊 Dataset
 
-- **Source:** Kaggle Heart Disease Dataset
+- **Source:** [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 - **Rows:** 918 patients
 - **Target Column:** `HeartDisease` (0 = No Disease, 1 = Disease)
 - **Features:** Age, Sex, ChestPainType, RestingBP, Cholesterol, FastingBS, RestingECG, MaxHR, ExerciseAngina, Oldpeak, ST_Slope
@@ -170,10 +170,10 @@ python main.py
 **Vihaan** — Day 15 of 30-Day ML Challenge 🔥
 
 [![GitHub](https://img.shields.io/badge/GitHub-Boosterboy12-black?style=for-the-badge&logo=github)](https://github.com/Boosterboy12)
+[![Repository](https://img.shields.io/badge/Repo-PROJECT--PHEONIX-blue?style=for-the-badge&logo=github)](https://github.com/Boosterboy12/PROJECT-PHEONIX)
 
 ---
 
 <div align="center">
   <i>Built with 🔥 as part of the 30-Day ML Challenge</i>
 </div>
-
