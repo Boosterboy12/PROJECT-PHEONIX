@@ -4,12 +4,12 @@
 
 ### Heart Disease Prediction using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-blue?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-blue?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-blue?style=for-the-badge)](https://seaborn.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-blue?style=for-the-badge)](https://matplotlib.org)
 ![Accuracy](https://img.shields.io/badge/Accuracy-89%25-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Day](https://img.shields.io/badge/30--Day--Challenge-Day%2015-red?style=for-the-badge)
